@@ -1,0 +1,15 @@
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.csproj.AssemblyReference.cache
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.AssemblyInfoInputs.cache
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.AssemblyInfo.cs
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.csproj.CoreCompileInputs.cache
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\Zadanie Zgadnij liczbę.exe
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\Zadanie Zgadnij liczbę.deps.json
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\Zadanie Zgadnij liczbę.runtimeconfig.json
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\Zadanie Zgadnij liczbę.dll
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\ref\Zadanie Zgadnij liczbę.dll
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\bin\Debug\net6.0\Zadanie Zgadnij liczbę.pdb
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.dll
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\ref\Zadanie Zgadnij liczbę.dll
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.pdb
+E:\VisualStudio2022\Zadanie Zgadnij liczbę\Zadanie Zgadnij liczbę\obj\Debug\net6.0\Zadanie Zgadnij liczbę.genruntimeconfig.cache
